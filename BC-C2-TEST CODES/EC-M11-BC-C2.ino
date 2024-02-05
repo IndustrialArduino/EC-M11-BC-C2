@@ -1,10 +1,3 @@
-// EC-M11-EG-C1
-/*
- * Digital Input Test
- * 12V Booster Enable / Disable
- * 
- */
-
  #include <Adafruit_ADS1015.h>
 
 Adafruit_ADS1115 ads1(0x49);
